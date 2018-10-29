@@ -1,0 +1,22 @@
+body
+{ 
+    background-color: black;
+    background-image: url("font02.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:  center;
+}
+
+a
+{
+   color:white;
+   text-decoration:none;
+}
+
+#conteneur0  
+{
+
+   border: 1px black solid;
+   border-radius: 7px;        
+}
+
